@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation

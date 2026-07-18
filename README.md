@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

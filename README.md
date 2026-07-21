@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/40bytestar/LeetCODE/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/40bytestar/LeetCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/40bytestar/LeetCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/40bytestar/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/40bytestar/LeetCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/40bytestar/LeetCODE/tree/master/0142-linked-list-cycle-ii) |

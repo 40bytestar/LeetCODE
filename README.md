@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/40bytestar/LeetCODE/tree/master/0724-find-pivot-index) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
+| [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 ## Sweep Line
 |  |
 | ------- |
